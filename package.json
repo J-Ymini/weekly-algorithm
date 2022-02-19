@@ -1,0 +1,23 @@
+{
+  "name": "weekly_algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -o --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Ymini/weekly-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Ymini/weekly-algorithm/issues"
+  },
+  "homepage": "https://github.com/J-Ymini/weekly-algorithm#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
