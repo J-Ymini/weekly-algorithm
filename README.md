@@ -5,4 +5,8 @@
 3. [재귀](https://github.com/J-Ymini/weekly-algorithm/blob/main/3.%EC%9E%AC%EA%B7%80/3.%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
 4. 검색 알고리즘
 5. [버블 정렬](https://github.com/J-Ymini/weekly-algorithm/blob/main/5.%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC/5.%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.md)
-6. [선택 정렬](https://github.com/J-Ymini/weekly-algorithm/blob/main/6.%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC/6.%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+6. [삽입 정렬](https://github.com/J-Ymini/weekly-algorithm/blob/main/7.%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC/7.%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
+7. [합병 정렬](https://github.com/J-Ymini/weekly-algorithm/blob/main/8.%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC/8.%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC.md)
+8. [퀵 정렬](https://github.com/J-Ymini/weekly-algorithm/blob/main/10.%ED%80%B5%EC%A0%95%EB%A0%AC/10.%ED%80%B5%EC%A0%95%EB%A0%AC.md)
+
+
